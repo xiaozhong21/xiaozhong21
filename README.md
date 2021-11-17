@@ -1,5 +1,7 @@
 ### Hello! This is Xiao Zhong 👋
 
+[<img src="https://img.shields.io/badge/-%40xiaozhong-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/xiaozhong/)
+
 [Self Introduction - Youtube Video](https://youtu.be/8ykaacnEZAQ)
 
 - 💻 I’m a full-stack software engineer apprentice at [Techtonica](https://techtonica.org/)
