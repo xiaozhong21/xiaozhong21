@@ -1,6 +1,6 @@
 ### Hello! This is Xiao Zhong 👋
 
-
+[Self Introduction - Youtube Video](https://youtu.be/8ykaacnEZAQ)
 
 - 💻 I’m a full-stack software engineer apprentice at [Techtonica](https://techtonica.org/)
 - 🌱 I’m currently learning the PERN (PostgreSQL, Express, React, Node) stack
